@@ -1,6 +1,6 @@
 # calculadora-python.
 
-Una calculadora avanzada echa en Python v3.8.
+Una calculadora avanzada hecha en Python v3.8.
 Por Alexd05 username en GitHub. 
 ᏗᏝᏋ𝔛𝔇#4132 username en Discord.
 
